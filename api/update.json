@@ -1,6 +1,6 @@
 {
 	"version": "v 2.0.3b",
 	"description": "-Добавлена функция выбора предпочитемого перевода\n-Решена проблема с отключением рекламы возникшая на некоторых устройствах (теперь точно)\n-Исправлены баги в функции восстановления данных версии 1.7.8+",
-	"url": "https://github.com/XakerD/SeasonHitUpdate/blob/master/apk/mobile-release.apk?raw=true",
+	"url": "https://github.com/XakerD/SeasonHitUpdate/raw/master/apk/mobile-release.apk",
 	"size": "4618661"
 }
