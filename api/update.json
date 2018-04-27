@@ -1,7 +1,7 @@
 {
-	"version": "v 2.0.4.2",
-	"version_code" : 2042,
-	"description": "-Исправлен баг с неправильным отображением названий",
+	"version": "v 2.1.0",
+	"version_code" : 2100,
+	"description": "-Автоподнятие сериалов с новыми сериями вверх;\n-Уведомление о наличие сериалов с новыми сериями;\n-Автоматическая синхронизация с Google Drive\n-Изменен алгоритм работы с Google Drive (теперь в Google Drive видны только те копии, что были созданы начиная с этой версии программы, PS политика безопасности Google);\n-Исправлены многие незначительные баги;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
-	"size": "4710310"
+	"size": "4834739"
 }
