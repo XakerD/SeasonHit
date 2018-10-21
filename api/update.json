@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.2",
-	"version_code" : 2320,
-	"description": "-Режим картинка в картинке для Android 8+;\n-Теги и актеры в сериалах кликабельны;\n-Возможность выбора альтернативной ссылки (Настройки -> Функциональность);\n-Поделиться ссылкой;",
+	"version": "v 2.3.2.2",
+	"version_code" : 2322,
+	"description": "-Исправлены не рабочие сериалы;\n-Исправлен вылет при сворачивании;\n-Обновлена библиотека плеера;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "5624441"
 }
