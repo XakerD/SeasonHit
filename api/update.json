@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.2.2",
-	"version_code" : 2322,
-	"description": "-Исправлены не рабочие сериалы;\n-Исправлен вылет при сворачивании;\n-Обновлена библиотека плеера;",
+	"version": "v 2.3.2.3",
+	"version_code" : 2323,
+	"description": "-Исправлены ошибки;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "5624441"
 }
