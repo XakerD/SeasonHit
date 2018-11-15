@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.2.4",
-	"version_code" : 2324,
-	"description": "-Исправлены ошибки;",
+	"version": "v 2.3.2.5",
+	"version_code" : 2325,
+	"description": "-Исправлены баги;\n-Звук уведомления о выходе новых серий;\n-Исправлена буферизация;\n-Надписи (Дней до следующей серии)/(Количество серий) если есть;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "5624441"
 }
