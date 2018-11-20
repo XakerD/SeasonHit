@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.2.5",
-	"version_code" : 2325,
-	"description": "-Исправлены баги;\n-Звук уведомления о выходе новых серий;\n-Исправлена буферизация;\n-Надписи (Дней до следующей серии)/(Количество серий) если есть;",
+	"version": "v 2.3.2.6",
+	"version_code" : 2326,
+	"description": "-Добавлена авторизация для доступа к HD;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "5624441"
 }
