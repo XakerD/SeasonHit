@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.2.6",
-	"version_code" : 2326,
-	"description": "-Добавлена авторизация для доступа к HD;",
+	"version": "v 2.3.3",
+	"version_code" : 2330,
+	"description": "-Глобальный поиск в Android Tv;\n-Улучшена навигация на главном экране;\n-Поддержка Android 9;\n-Скопировать ссылку;\n-Фильтры расширенного поиска теперь сохраняются;\n-Обновлена помощь;\n-Сворачивать в pip (можно отключить в настройках плеера);",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "5624441"
 }
