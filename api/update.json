@@ -1,7 +1,7 @@
 {
-	"version": "v 2.3.6.1",
-	"version_code" : 2361,
-	"description": "-Исправлены проблемы с запуском сериалов;",
+	"version": "v 2.3.6.2",
+	"version_code" : 2362,
+	"description": "-Фильмы снова работают;\n-Возможность добавлять вкладку фильмы на главный экран;\n-Поиск фильмов (заходим на вкладку фильмы и поиск перестраивается под фильмы);\n-Исправлены другие баги и обновлены библиотеки поддержки;",
 	"url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PP0_4pqT5E-0_yFMAbaC8mOlUKscbIdk",
 	"size": "7125000"
 }
